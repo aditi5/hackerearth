@@ -14,6 +14,7 @@ int minDistance(int dist[], bool sptSet[])
    return min_index;
 }
 
+//print the sol
 int printSolution(int dist[], int n)
 {
    printf("Vertex   Distance from Source\n");
